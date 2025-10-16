@@ -1,9 +1,9 @@
 streamlit==1.39.0
 SQLAlchemy==2.0.36
-psycopg2-binary==2.9.9
 pandas==2.2.3
 numpy==1.26.4
 openpyxl==3.1.5
 reportlab==4.2.2
+
 
 
