@@ -1,9 +1,9 @@
 streamlit==1.39.0
-SQLAlchemy==2.0.36
-pandas==2.2.3
+pandas==2.2.2
 numpy==1.26.4
-openpyxl==3.1.5
-reportlab==4.2.2
+SQLAlchemy==2.0.36
+pg8000==1.31.2
+
 
 
 
